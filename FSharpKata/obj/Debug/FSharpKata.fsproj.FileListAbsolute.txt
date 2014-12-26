@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\FSharpKata.exe.config
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\FSharpKata.XML
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\FSharpKata.exe
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\FSharpKata.pdb
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\FSharp.Core.dll
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\nunit.framework.dll
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\FSharp.Core.xml
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\bin\Debug\nunit.framework.xml
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\obj\Debug\FSharpKata.exe
+\\psf\home\documents\visual studio 2013\Projects\FSharpKata\FSharpKata\obj\Debug\FSharpKata.pdb
